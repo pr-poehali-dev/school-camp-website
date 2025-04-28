@@ -14,7 +14,7 @@ const Hero = () => {
       <div className="container relative z-10 px-4 py-20 md:py-32 mx-auto">
         <div className="max-w-2xl">
           <h1 className="text-4xl md:text-5xl lg:text-6xl font-display font-bold text-camp-purple mb-6">
-            Школьный лагерь "Лесная Сказка"
+            Школьный лагерь "ШИК"
           </h1>
           <p className="text-xl md:text-2xl text-gray-700 mb-8">
             Незабываемые каникулы с пользой для ваших детей! 

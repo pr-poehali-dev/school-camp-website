@@ -14,7 +14,7 @@ const Header = () => {
     <header className="bg-white shadow-sm sticky top-0 z-50">
       <div className="container px-4 sm:px-6 py-4 flex justify-between items-center">
         <Link to="/" className="flex items-center gap-2">
-          <span className="text-2xl font-bold text-camp-purple">Лесная Сказка</span>
+          <span className="text-2xl font-bold text-camp-purple">ШИК</span>
         </Link>
 
         {/* Desktop Menu */}
